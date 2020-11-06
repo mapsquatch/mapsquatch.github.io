@@ -1,1 +1,5 @@
-Hello world, coding along with the webinar
+# Welcome to the Jungle
+
+## About this site
+
+This was created as part of a training seminar.
